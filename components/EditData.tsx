@@ -171,6 +171,12 @@ const EditData = () => {
       >
         All data
       </Link>
+      <Link
+        href="/"
+        className="mt-5 bg-white px-3 py-1 rounded-md text-black hover:bg-gray-200"
+      >
+        Go to Homepage
+      </Link>
     </div>
   );
 };
